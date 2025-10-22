@@ -2,7 +2,7 @@ Associate Software Engineer based in 🇮🇪
 
 Love learning and building
 
-**whoami**
+**whois Fiachra**
 
 - [Website](https://fiachracurran.com)
 - [LinkedIn](https://www.linkedin.com/in/fiachracurran)
