@@ -1,12 +1,15 @@
-Associate Software Engineer based in 🇮🇪
+# hi 👋, I'm Fiachra Curran
+[![Website](https://img.shields.io/badge/Website-fiachracurran.com-ff69b4?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://fiachracurran.com)  
 
-Love learning and building
+🌍 associate software engineer based in Dublin, Ireland  
+💻 passionate about learning new technologies and building cool things
 
-**whois Fiachra**
+---
 
-- [Website](https://fiachracurran.com)
-- [LinkedIn](https://www.linkedin.com/in/fiachracurran)
+## 📊 GitHub Stats
 
-**GitHub Stats Summary**
+![Fiachra's GitHub stats](https://github-readme-stats-mu-lac-26.vercel.app/api?username=fiachracurran&show_icons=true&theme=radical)  
 
-![fiachracurran's GitHub stats](https://github-readme-stats-mu-lac-26.vercel.app/api?username=fiachracurran)
+![Top Languages](https://github-readme-stats-mu-lac-26.vercel.app/api/top-langs/?username=fiachracurran&layout=compact&theme=radical)
+
+---
